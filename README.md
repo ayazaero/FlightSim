@@ -1,29 +1,3 @@
----
-title: Flight Simulator.
-summary: In this project, I integrated an Xbox controller and FlightGear visualization with the MATLAB/Simulink Non-Linear model of the Research Civil Aircraft Model (RCAM). I incorporated an optimization-based trimming module to facilitate control adjustments. Results demonstrate successful replication of user control inputs, stable flight under trim conditions. Despite challenges such as small joystick travel and manual trimming complexities, managed to effectively adjust the aircraft's trim in the event of an engine shutdown, demonstrating the resilience of the system.
-
-tags:
-  - Simulation and Modelling
-date: '2017-03-12'
-
-# Optional external URL for project (replaces project detail page).
-external_link: ''
-
-image:
-  caption: 
-  focal_point: 
-
-url_code: 
-url_pdf: ''
-url_slides: ''
-url_video: 
-
-# Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
----
 # Abstract
 
 ## Aim
